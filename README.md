@@ -6,7 +6,7 @@ The purpose of this task
 - understand how useContext can solve the problem of global state in React applications
 - deepen the technical skills of implementing useContext in a React application
 
-What the “customer” wants (for Christmas):
+What the “customer” wants (for Christmas :christmas_tree:):
 - You will create a website that allows a user to
    - to enter his name on a page
    - select items to purchase on a second page
@@ -34,7 +34,7 @@ BONUS CHALLENGES:
 ===============================================================
 
 You can either implement the project alone or code in pair programming (2 people)/mob programming (>2 people):
---> What is Pair Programming/ Mob Programming???
+--> What is Pair Programming/ Mob Programming??? :desktop_computer:
 - A developer (driver/pilot) takes control, writes the code and shares his screen via Zoom :clap:
 - The remaining developers (navigators) simultaneously check the correctness of the code and develop possible solutions :eyes:
 - There is almost no division of tasks as all developers have equal rights :busts_in_silhouette:
