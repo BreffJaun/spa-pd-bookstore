@@ -43,6 +43,3 @@ Die Rollen werden kontinuierlich gewechselt :arrows_counterclockwise:
 
 ===============================================================
 
-:arrow_down:              :arrow_down:               :arrow_down:             :arrow_down:               :arrow_down:
-
-In den Kommentaren findet ihr euren ersten Tipp :clown_face:
