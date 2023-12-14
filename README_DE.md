@@ -6,7 +6,7 @@ Der Zweck dieser Task
 - zu verstehen, wie useContext das Problem des globalen Zustands in React-Anwendungen lösen kann
 - die technischen Fertigkeiten der Implementierung von useContext in einer React-Anwendung zu vertiefen
 
-Was der "Kunde" sich zu Weihnachten :christmas_tree: wünscht:
+Was der "Kunde" sich zu Weihnachten :christmas_tree: :christmas_tree: wünscht:
 - Ihr werdet eine Website erstellen, die es einem Benutzer ermöglicht
   - seinen Namen auf einer Seite einzugeben
   - auf einer zweiten Seite Artikel zum Kauf auszuwählen
@@ -34,7 +34,7 @@ BONUS CHALLENGES:
 ===============================================================
 
 Ihr könnt das Projekt entweder alleine umsetzen oder im Pair Programming (2 Pers.)/ Mob Programming (>2 Pers.) coden:
---> Was ist Pair Programming/ Mob Programming???:desktop_computer:
+--> Was ist Pair Programming/ Mob Programming??? :desktop_computer:
 - Ein Entwickler (Driver/ Pilot) übernimmt die Steuerung, schreibt den Code und teilt seinen Bildschirm über Zoom :clap:
 - Die restlichen Entwickler (Navigatoren) überprüfen gleichzeitig die Korrektheit des Codes und erarbeiten Lösungsansätze :eyes:
 - Es gibt fast keine Aufgabenteilung, da alle Entwickler gleichberechtigt sind :busts_in_silhouette:
