@@ -21,7 +21,7 @@ Was der "Kunde" sich zu Weihnachten 🎄 wünscht:
 Regel für die Task:
 - verwendet die bisher gelernten Hooks nach Bedarf (useContext MUSS verwendet werden)
 
- :bangbang: :bangbang: :bangbang: => So soll eure [SEITE](https://et872-bookstore-with-context.vercel.app) hinterher aussehen <= :bangbang: :bangbang: :bangbang:
+ :bangbang: :bangbang: :bangbang: => So soll eure [SEITE](https://spa-pd-bookstore.vercel.app/) hinterher aussehen <= :bangbang: :bangbang: :bangbang:
 
 BONUS CHALLENGES:
 - Den Prozess der Namenseingabe professioneller gestalten und die Benutzerfreundlichkeit verbessern
