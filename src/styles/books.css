@@ -1,0 +1,32 @@
+/* In Ihrer books.css oder einer anderen geeigneten CSS-Datei */
+
+.books-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+}
+
+.book-container {
+  max-width: 150px;
+}
+
+.book-image {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.order-info {
+  background-color: green;
+  color: yellow;
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  text-align: center;
+  margin: 0;
+}
+
+

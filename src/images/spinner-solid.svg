@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <!-- Cool of you to look at the source!    -->
+    <!-- Lovingly hand coded by github.com/req -->
+    <!-- Public domain svg                     -->
+    <!-- Could this even be IP/copyrightable?  -->
+    <!-- Now go back to coding!                -->
+
+    <!-- Yep, you could do the rotate CSS here -->
+    <!-- I won't just give the code though ;)  -->
+    <style>
+    #x {
+        animation: ...;
+    }
+    </style>
+
+    <g fill="black" id="x">
+        <circle r="10" cx="75"  cy="25" />
+        <circle r="10" cx="25"  cy="75" />
+        <circle r="10" cx="125" cy="75" />
+        <circle r="10" cx="40"  cy="40" />
+        <circle r="10" cx="110" cy="40" />
+        <circle r="10" cx="110" cy="110" />
+        <circle r="10" cx="75"  cy="125" />
+    </g>
+</svg> 
