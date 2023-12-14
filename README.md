@@ -6,7 +6,7 @@ The purpose of this task
 - understand how useContext can solve the problem of global state in React applications
 - deepen the technical skills of implementing useContext in a React application
 
-What the “customer” wants (for Christmas :christmas_tree:):
+What the “customer” wants (for Christmas :christmas_tree: ):
 - You will create a website that allows a user to
    - to enter his name on a page
    - select items to purchase on a second page
