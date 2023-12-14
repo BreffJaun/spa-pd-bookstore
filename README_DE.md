@@ -6,7 +6,7 @@ Der Zweck dieser Task
 - zu verstehen, wie useContext das Problem des globalen Zustands in React-Anwendungen lösen kann
 - die technischen Fertigkeiten der Implementierung von useContext in einer React-Anwendung zu vertiefen
 
-Was der "Kunde" sich (zu Weihnachten :christmas_tree:) wünscht:
+Was der "Kunde" sich zu Weihnachten :christmas_tree: wünscht:
 - Ihr werdet eine Website erstellen, die es einem Benutzer ermöglicht
   - seinen Namen auf einer Seite einzugeben
   - auf einer zweiten Seite Artikel zum Kauf auszuwählen
