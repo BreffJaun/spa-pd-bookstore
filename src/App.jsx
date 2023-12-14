@@ -10,9 +10,9 @@ import OrdersContext from "./context/OrdersContext.jsx";
 
 // I M P O R T:   F U N C T I O N S
 import Navigation from "./components/Navigation.jsx";
-import Welcome from "./views/welcome.jsx";
-import Books from "./views/books.jsx";
-import Checkout from "./views/checkout.jsx";
+import Welcome from "./views/Welcome.jsx";
+import Books from "./views/Books.jsx";
+import Checkout from "./views/Checkout.jsx";
 
 // C O D E
 function App() {
