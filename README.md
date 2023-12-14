@@ -21,7 +21,7 @@ What the “customer” wants for Christmas :christmas_tree::
 Rule for the task:
 - uses the hooks learned so far as needed (useContext MUST be used)
 
-  :bangbang: :bangbang: :bangbang: => This is what your [PAGE](https://et872-bookstore-with-context.vercel.app) should look like afterwards <= :bangbang: :bangbang: :bangbang:
+  :bangbang: :bangbang: :bangbang: => This is what your [PAGE](https://spa-pd-bookstore.vercel.app/) should look like afterwards <= :bangbang: :bangbang: :bangbang:
 
 BONUS CHALLENGES:
 - Make the name entry process more professional and improve user experience
