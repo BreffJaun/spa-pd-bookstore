@@ -31,14 +31,14 @@ BONUS CHALLENGES:
 - When you reload the page, the shopping cart should still be there with the previously selected books.
 - Instead of a "Dark Mode", add a "Christmas Mode" :santa::christmas_tree::mrs_claus::christmas_tree::mx_claus:
 
-================================================== =============
+===============================================================
 
 You can either implement the project alone or code in pair programming (2 people)/mob programming (>2 people):
---> What is Pair Programming/ Mob Programming???:desktop_computer:
+--> What is Pair Programming/ Mob Programming??? :desktop_computer:
 - A developer (driver/pilot) takes control, writes the code and shares his screen via Zoom :clap:
 - The remaining developers (navigators) simultaneously check the correctness of the code and develop possible solutions :eyes:
 - There is almost no division of tasks as all developers have equal rights :busts_in_silhouette:
 - The roles are changed continuously :arrows_counterclockwise:
 - :handshake: So everyone looks at the same code and participates equally in the conversation via Zoom. :speech_balloon:
 
-================================================== =============
+===============================================================
