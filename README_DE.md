@@ -13,9 +13,9 @@ auf einer zweiten Seite Artikel zum Kauf auszuwählen
 die Artikel im Warenkorb auf einer dritten Seite ansehen und bearbeiten zu können
 Die Daten werden zentral von useContext verwaltet.
 
-Die Bücher könnt ihr von dieser Adresse fetchen:
-https://edwardtanguay.vercel.app/share/techBooks.json
-Beachtet, dass die Bilder hier auf dem idCode des Buches basieren, z.B. für "bashCookbook"
+Die Bücher könnt ihr von dieser Adresse fetchen:   
+https://edwardtanguay.vercel.app/share/techBooks.json   
+Beachtet, dass die Bilder hier auf dem idCode des Buches basieren, z.B. für "bashCookbook"   
 https://edwardtanguay.vercel.app/share/images/techBooks/bashCookbook.jpg
 
 Regel für die Task:
