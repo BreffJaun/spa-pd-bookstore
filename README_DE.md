@@ -1,4 +1,4 @@
-SPA PRACTICE DAY - TASK
+### SPA PRACTICE DAY - TASK
 
 => Erstellen einer React-Website für einen "Book Store"
 
